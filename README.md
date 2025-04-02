@@ -22,7 +22,7 @@ This project facilitates decentralized image upload and sharing on the blockchai
     ```
 2. Navigate to the project directory:
     ```bash
-    cd decentralized-image-upload
+    cd file-storage
     ```
 3. Install dependencies:
     ```bash
